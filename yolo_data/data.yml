@@ -1,0 +1,7 @@
+names:
+- car
+nc: 1
+path: ../yolo_data
+test: test/images
+train: train/images
+val: val/images
